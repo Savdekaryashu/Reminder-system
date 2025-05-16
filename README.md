@@ -81,7 +81,7 @@ reminder\_system/
 
 **Preview**
 
-![Reminder System UI](assets/preview.png) *(Add a screenshot of your application UI here)*
+![Reminder System UI](assets/preview.png) 
 
 ---
 
