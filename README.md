@@ -1,5 +1,3 @@
----
-
 
 **Reminder System**
 
@@ -7,72 +5,69 @@ A simple Tkinter-based desktop application to manage your daily reminders. This 
 
 ---
 
-
 **Features**
 
-* 📌 Add new reminders with a single click or Enter key.
-* ✏️ Edit existing reminders and retain their original position.
-* ❌ Delete selected reminders.
-* 🔄 Clear all reminders from the list.
-* 📜 Scrollable list for easy navigation.
+* 📌 Add new reminders with a single click or Enter key.  
+* ✏️ Edit existing reminders and retain their original position.  
+* ❌ Delete selected reminders.  
+* 🔄 Clear all reminders from the list.  
+* 📜 Scrollable list for easy navigation.  
 * 💾 Reminders are saved locally and reloaded on the next startup.
 
 ---
 
-
 **Technologies Used**
 
-# **Language:** Python 3.x
-# **GUI Library:** Tkinter
-# **Storage:** JSON
-# **Dependencies:**
+- **Language:** Python 3.x  
+- **GUI Library:** Tkinter  
+- **Storage:** JSON  
+- **Dependencies:**
 
-  * `tkinter` - For GUI
-  * `json` - For storing reminders
+  * `tkinter` - For GUI  
+  * `json` - For storing reminders  
   * `os` - For file path handling
 
 ---
 
-
 **Project Structure**
 
-```
-reminder_system/
+
+
+reminder\_system/
 │
 ├── reminders.json            # JSON file to store reminders
-├── reminder_system.py        # Main application file
+├── reminder\_system.py        # Main application file
 ├── README.md                 # Project documentation
 └── assets/                   # Optional: store icons or images for UI
-```
+
+
 
 ---
-
 
 **Setup Instructions**
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/reminder_system.git
-   cd reminder_system
-   ```
+   bash
+   git clone https://github.com/Savdekaryashu/Reminder-system.git
+   cd Reminder-system
+
 
 2. Create a virtual environment (optional but recommended):
 
-   ```bash
+   bash
    python -m venv venv
    source venv/bin/activate    # On Linux/macOS
    .\venv\Scripts\activate     # On Windows
-   ```
+   
 
 3. Run the application:
 
-   ```bash
-   python reminder_system.py
-   ```
+   bash
+   python reminder.py
+   
 
 ---
-
 
 **Usage**
 
@@ -84,13 +79,11 @@ reminder_system/
 
 ---
 
-
 **Preview**
 
 ![Reminder System UI](assets/preview.png) *(Add a screenshot of your application UI here)*
 
 ---
-
 
 **Planned Enhancements**
 
@@ -101,13 +94,11 @@ reminder_system/
 
 ---
 
-
 **Contributing**
 
 Feel free to fork this repository, submit issues, and create pull requests. Contributions are welcome!
 
 ---
-
 
 **License**
 
@@ -115,11 +106,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-
 **Contact**
 
 For any queries or issues, feel free to reach out:
 
-* **Email:** [savdekaryash18@gmail.com](mailto:savdekaryashu18@gmail.com)
+* **Email:** [savdekaryashu18@gmail.com](mailto:savdekaryashu18@gmail.com)
 * **GitHub:** [Savdekaryashu](https://github.com/Savdekaryashu)
+
 
